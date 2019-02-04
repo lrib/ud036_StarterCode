@@ -35,6 +35,11 @@ O arquivo 'fresh_tomatoes.py' recebe os dados do filme e quando executado é ger
 
 ## Fontes consultadas:
 https://realpython.com/api-integration-in-python/
+
 http://docs.python-requests.org/en/master/
+
 http://www.omdbapi.com/api
+
 http://pep8online.com/checkresult
+
+
