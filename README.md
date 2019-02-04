@@ -21,7 +21,7 @@ Dentro do arquivo 'entertainment_center.py' contém uma lista (array_movie) com 
 
 ## Execução
 
-Com o título dos filmes cadastrados na lista (array_movie) dentro do 'entertainment_center.py' e da adição da chave do API na variável APIKEY_THMOVIEDB no arquivo 'entertainment_center.py' executar o script. Se ocorrer algum erro na coleta da informação do titulo do filme pelo API, o dado do filme não será informado.
+Com os títulos dos filmes cadastrados na lista (array_movie) dentro do 'entertainment_center.py' e da adição da chave do API na variável APIKEY_THMOVIEDB no arquivo 'entertainment_center.py' executar o script. Se ocorrer algum erro na coleta da informação do titulo do filme pelo API, o dado do filme não será informado.
 
 Com as informação cadastradas no arquvio 'entertainment_center.py', este irã coletar as informação dos filmes na base de dados do themoviedb.org e irá fornecer estas informações para serem utilizadas pelo arquvio 'fresh_tomatoes.py', como titulo, descrição, url do poster e url do trailer.
 
